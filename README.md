@@ -1,4 +1,4 @@
-Project is uploaded in website: https://fitclub-dq4.pages.dev/
+Project is uploaded n website: https://fitclub-dq4.pages.dev/
 
 # Getting Started with Create React App
 
