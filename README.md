@@ -1,6 +1,18 @@
-Project is uploaded n website: https://fitclub-dq4.pages.dev/
 
-# Getting Started with Create React App
+ This is a React-js responsive gym website.
+ 
+ ## Live Demo
+ https://fitclub-dq4.pages.dev/
+
+## Preview
+
+![Img1](https://github.com/user-attachments/assets/37a29b1a-816f-4918-83ea-7ede96799155)
+![img2](https://github.com/user-attachments/assets/09be33cf-877d-40ad-b91d-e2988dc8c5a3)
+![Img3](https://github.com/user-attachments/assets/cba88bbe-3a8f-4720-8ad2-f90221c19c41)
+![Img4](https://github.com/user-attachments/assets/de75c1d7-3bc8-4f51-a3d1-78482a704000)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
