@@ -1,7 +1,7 @@
-
+## Fitclub
  This is a React-js responsive gym website.
  
- ## Live Demo
+## Live Demo
  https://fitclub-dq4.pages.dev/
 
 ## Preview
