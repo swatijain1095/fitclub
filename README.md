@@ -11,6 +11,11 @@
 ![Img3](https://github.com/user-attachments/assets/cba88bbe-3a8f-4720-8ad2-f90221c19c41)
 ![Img4](https://github.com/user-attachments/assets/de75c1d7-3bc8-4f51-a3d1-78482a704000)
 
+## Technologies used
+- React
+- Framer-motion
+- EmailJs
+- React-scroll
 
 ## Getting Started with Create React App
 
